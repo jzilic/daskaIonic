@@ -1,0 +1,71 @@
+{
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Otvaranje",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Dvorana 60",
+              "tracks": ["Food"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:15 am",
+          "sessions": [
+            {
+              "name": "Pozvani predavač",
+              "location": "Dvorana 60",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"],
+              "id": "2"
+            },
+            {
+              "name": "Cvijetin i Stijepo: Ionic",
+              "location": "Dvorana 60",
+              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Tooling"],
+              "id": "3"
+            }
+           
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Tomislav Jakopec",
+      "profilePic": "/assets/img/speakers/jaki.jpg",
+      "twitter": "ionicframework",
+      "about": "Pomagajte profesore.",
+      "location": "Everywhere",
+      "email": "tjakopec@ffos.hr",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    }
+  ],
+
+  "map": [
+    {
+      "name": "Filozofski fakultet Osijek",
+      "lat": 45.558787,
+      "lng": 18.680888,
+      "center": true
+    }
+   
+  ]
+}
